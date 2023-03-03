@@ -2,6 +2,7 @@
 *.azureml
 *pythonenv
 *.venv
+venv
 *dask-worker-space
 *mlruns
 *.vscode
